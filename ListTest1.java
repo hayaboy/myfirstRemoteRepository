@@ -6,6 +6,7 @@ public class ListTest1 {
 
 	public static void main(String[] args) {
 	
+		// list objects created
 		ArrayList<Double> arrLists = new ArrayList<Double>();
 		
 		System.out.println(arrLists);
