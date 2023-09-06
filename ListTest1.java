@@ -16,6 +16,8 @@ public class ListTest1 {
 		arrLists.add(10.4);
 		arrLists.add(10.4);
 		
+
+		// arrLists print
 		System.out.println(arrLists);
 		
 		
